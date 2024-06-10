@@ -12,3 +12,5 @@ function myFunction() {
 
 myFunction();
 console.log('global scope: ' + value)
+console.log('-----------------')
+
