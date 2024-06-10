@@ -49,3 +49,4 @@ function getName2(animal) {
 
 const name2 = getName2(dog);
 console.log(name2);
+
